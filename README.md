@@ -1,2 +1,2 @@
 # gadgetmania.github.io
-.
+
